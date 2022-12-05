@@ -1,3 +1,5 @@
+#Author : Hemangi Gavande
+
 #If the bill was $150.00, split between 5 people, with a 12% tip.
 print("Welcome to the tip calculator!")
 Total_bill = float(input("What was the total bill? $"))
